@@ -1,0 +1,10 @@
+{
+	"number": 7,
+	"name": "Starlight Glimmer",
+	"type": "pony",
+	"text": "Everyone is equal, that's why each time someone drinks, everybody else drinks same amount.\nLasts max three rounds.",
+	"quote": "Well, now you can spend the rest of your lives here with us! And we'll teach you just how much better life can be without your cutie marks!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 26
+}

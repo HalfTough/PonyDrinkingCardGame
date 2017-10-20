@@ -1,0 +1,10 @@
+{
+	"number": 1,
+	"name": "Twilight Sparkle",
+	"type": "pony",
+	"text": "Every time someone says something wrong, you can correct them and make them drink. Every time you are wrong and someone calls you out – you drink.",
+	"quote": "You know why? Because I’m right. I’ll check on the preparations as fast as I can, then get to the library to find some proof of Nightmare Moon’s return.",
+	"name-fs": 84,
+	"text-fs": 48,
+	"quote-fs": 24
+}
