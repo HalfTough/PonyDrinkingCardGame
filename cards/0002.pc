@@ -1,0 +1,10 @@
+{
+	"number": 2,
+	"name": "Rarity",
+	"type": "pony",
+	"text": "Decide a fashion trend that everyone has to follow.",
+	"quote": "Is it a crime to change one's style every now and again? Why, I think it's a crime not to.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

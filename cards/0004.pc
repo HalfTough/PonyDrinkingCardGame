@@ -1,0 +1,10 @@
+{
+	"number": 4,
+	"name": "Fluttershy",
+	"type": "pony",
+	"text": "Drink every time you swear.",
+	"quote": "I am sorry, but I'm just so... ugh... so PEEVED right now.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

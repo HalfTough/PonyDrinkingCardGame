@@ -1,0 +1,10 @@
+{
+	"number": 6,
+	"name": "Applejack",
+	"type": "pony",
+	"text": "Replace your drink with apple cider.",
+	"quote": "That there's the biggest bumper crop of apples I ever laid eyes on.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

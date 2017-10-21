@@ -1,0 +1,10 @@
+{
+	"number": 3,
+	"name": "Rainbow Dash",
+	"type": "pony",
+	"text": "Help your friends in trouble. When someone has to drink, take half of this burden on yourself. If shots are not divisible by 2, round it down.",
+	"quote": "Rainbow Dash, who could not abandon her friends for her own heart’s desire, represents the spirit of...Loyalty!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
