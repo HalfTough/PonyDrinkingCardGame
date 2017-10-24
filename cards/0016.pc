@@ -1,0 +1,10 @@
+{
+	"number": 16,
+	"name": "Filthy Rich",
+	"type": "pony",
+	"text": "You can pay to cancel shots.",
+	"quote": "– 'Course, Filthy.\n– I prefer Rich.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
