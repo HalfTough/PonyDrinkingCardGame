@@ -20,8 +20,11 @@ files = [x for x in os.scandir(CARDSDIR) if x.is_file() and x.name.endswith('.pc
 os.system('mkdir -p out')
 for file in files:
 	file = open(file, 'r')
-	#TODO Obsluga blendow
-	card = json.loads( file.read() )
-	file.close()
-	os.system(IMAGEMAGICK % ( card['type'], card['number'], card['name-fs'], card['name'], card['text-fs'], card['text'], card['number'], card['quote-fs'], card['quote'], card['number']))
-	print('Card ' + ( '%04d' % card['number'] ) + ' done' )
+	try:
+		card = json.loads( file.read() )
+		os.system(IMAGEMAGICK % ( card['type'], card['number'], card['name-fs'], card['name'], card['text-fs'], card['text'], card['number'], card['quote-fs'], card['quote'], card['number']))
+		print('Card ' + ( '%04d' % card['number'] ) + ' done' )
+	except:
+		sys.stderr.write("Error reading " + file.name + "\n" )
+	finally:
+		file.close()
