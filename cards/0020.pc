@@ -1,0 +1,10 @@
+{
+	"number": 20,
+	"name": "Party Cannon",
+	"type": "action",
+	"text": "Pick a player who has to drink two shots.",
+	"quote": "I never leave home without my party cannon.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
