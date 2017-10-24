@@ -1,0 +1,10 @@
+{
+	"number": 13,
+	"name": "Big Mac",
+	"type": "pony",
+	"text": "Every time you say somthing other than “eeyup” or “nope” drink.",
+	"quote": "Eeyup",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

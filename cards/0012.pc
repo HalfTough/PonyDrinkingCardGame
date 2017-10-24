@@ -1,0 +1,10 @@
+{
+	"number": 12,
+	"name": "Zecora",
+	"type": "pony",
+	"text": "You can only talk in rhymes.",
+	"quote": "Maybe next time you will take a second look, and not judge the cover of the book.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

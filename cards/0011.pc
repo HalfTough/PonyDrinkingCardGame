@@ -1,0 +1,10 @@
+{
+	"number": 11,
+	"name": "Spike",
+	"type": "pony",
+	"text": "Every time someone interupts you, take a shot. Don't drink if you won't let yourself be interupted.",
+	"quote": "Sweet! What are you having him do? Wash your laundry? Clean your room? Help you with your unfinished novel?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
