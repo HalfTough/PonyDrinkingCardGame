@@ -1,0 +1,10 @@
+{
+	"number": 27,
+	"name": "Nap",
+	"type": "action",
+	"text": "You deserve a little rest. No drinking this time.\nGee, I hope you didn't draw this card at begining of the game.",
+	"quote": "I was busy! Napping.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

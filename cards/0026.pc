@@ -1,0 +1,10 @@
+{
+	"number": 26,
+	"name": "Party animal",
+	"type": "action",
+	"text": "All your shots are doubled. Lasts 1 round.",
+	"quote": "It's true! I do have problem!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

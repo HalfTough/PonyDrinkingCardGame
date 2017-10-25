@@ -1,0 +1,10 @@
+{
+	"number": 28,
+	"name": "Reshelving day",
+	"type": "action",
+	"text": "Take 5 cards from the top of deck. Order them however you like and put back on the top of deck.",
+	"quote": "Understanding Medival Equestria goes in... Pony History.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
