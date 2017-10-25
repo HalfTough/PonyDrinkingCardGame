@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="c-action.svg"
-   inkscape:export-filename="/home/gurtos/data/Dokumenty/Pomysły/Pony Drinking Game/script/c-action.png"
+   inkscape:export-filename="/home/gurtos/data/Dokumenty/Pomysły/Pony Drinking Game/script/c-action2.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <defs
@@ -26,15 +26,15 @@
        inkscape:collect="always"
        id="linearGradient944">
       <stop
-         style="stop-color:#ffe553;stop-opacity:1;"
+         style="stop-color:#ffcd49;stop-opacity:1"
          offset="0"
          id="stop940" />
       <stop
          id="stop950"
          offset="0.6639728"
-         style="stop-color:#fff09b;stop-opacity:1" />
+         style="stop-color:#ffe07e;stop-opacity:1" />
       <stop
-         style="stop-color:#f7d932;stop-opacity:1"
+         style="stop-color:#f6c322;stop-opacity:1"
          offset="1"
          id="stop942" />
     </linearGradient>
@@ -383,9 +383,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="298.4434"
-     inkscape:cy="602.69525"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="368.46472"
+     inkscape:cy="495.17414"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
