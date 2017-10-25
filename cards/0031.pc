@@ -1,0 +1,10 @@
+{
+	"number": 31,
+	"name": "Staff of Sameness",
+	"type": "action",
+	"text": "Discard your Active Pony Card, if you have any.",
+	"quote": "It was one of the great mage Meadowbrook's nine enchanted items.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

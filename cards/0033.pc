@@ -1,0 +1,10 @@
+{
+	"number": 33,
+	"name": "Switch",
+	"type": "action",
+	"text": "Switch positions of two cards in the game. As long it makes sense, that is.",
+	"quote": "Good choice! Not that you had one.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

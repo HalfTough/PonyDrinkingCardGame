@@ -1,0 +1,10 @@
+{
+	"number": 34,
+	"name": "Banished",
+	"type": "action",
+	"text": "You're banished to the Moon. You're out of the game for one round.",
+	"quote": "Using the magic of the Elements of Harmony, she defeated her younger sister and banished her permanently to the moon.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

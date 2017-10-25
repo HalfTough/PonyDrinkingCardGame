@@ -1,0 +1,10 @@
+{
+	"number": 32,
+	"name": "Number 25",
+	"type": "action",
+	"text": "Pick a player and draw mustache on his/her face.",
+	"quote": "Hello Rarity! What's that? Oh, it's nothing. Just my awesome mustache.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

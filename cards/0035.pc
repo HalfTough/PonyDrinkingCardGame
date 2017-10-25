@@ -1,0 +1,10 @@
+{
+	"number": 35,
+	"name": "Ponhenge",
+	"type": "action",
+	"text": "Choose three cards from discard pile and shuffle them into the deck.",
+	"quote": "The thing is... I think I can get them out.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
