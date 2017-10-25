@@ -1,0 +1,10 @@
+{
+	"number": 22,
+	"name": "10 seconds flat",
+	"type": "action",
+	"text": "That's how much you have to finish your drink once it's prepared or you'll gonna have to drink it twice.",
+	"quote": "What'd say. Ten. Seconds. Flat.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

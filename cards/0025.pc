@@ -1,0 +1,10 @@
+{
+	"number": 25,
+	"name": "Magic Duel",
+	"type": "action",
+	"text": "Pick a competition. Other players pick representant who will face you. If you win, everybody else takes a shot. If you lose, take two shots.",
+	"quote": "Who is so ignorant as to challenge the magical ability of the Great and Powerful Trixie?!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

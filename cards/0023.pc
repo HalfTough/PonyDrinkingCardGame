@@ -1,0 +1,10 @@
+{
+	"number": 23,
+	"name": "Baked bads",
+	"type": "action",
+	"text": "Mix at least two types of alcohol together and drink it.",
+	"quote": "Stop with the shakin'! It's time to get bakin'!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

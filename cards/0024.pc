@@ -1,0 +1,10 @@
+{
+	"number": 24,
+	"name": "You know what this calls for?",
+	"type": "action",
+	"text": "A shot!",
+	"quote": "You know what this calls for? A PARTY!",
+	"name-fs": 52,
+	"text-fs": 50,
+	"quote-fs": 28
+}
