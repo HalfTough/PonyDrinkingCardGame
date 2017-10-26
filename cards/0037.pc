@@ -1,0 +1,10 @@
+{
+	"number": 37,
+	"name": "Wing Training",
+	"type": "action",
+	"text": "Do 10 push-ups. You can skip each 2, by taking a shot.",
+	"quote": "We're gonna need all the wing power we can get to break that record!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

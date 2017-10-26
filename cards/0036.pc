@@ -1,0 +1,10 @@
+{
+	"number": 36,
+	"name": "Potion Brewing",
+	"type": "action",
+	"text": "Make a drink form anything you found and give it to your best friend to drink.",
+	"quote": "I bet you can mix up a brew to fix... anything.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
