@@ -2,7 +2,7 @@
 	"number": 15,
 	"name": "Vinyl Scratch",
 	"type": "pony",
-	"text": "You decide what music plays in the background – even if you don't want to. Playing radio would be to easy – pick every song seperetly.",
+	"text": "You decide what music plays in the background – even if you don't want to. Playing radio would be to easy – select each song seperetly.",
 	"quote": "...",
 	"name-fs": 84,
 	"text-fs": 50,
