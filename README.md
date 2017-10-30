@@ -5,7 +5,7 @@ This are sources of free card game for adults inspired by 4chan Drinking Game an
 
 If you want to play it, wait untill it's done. I'll post ready to print version.
 
-#TODOS
+##TODOS
 
 * Making bancha new cards
 * Making graphics for the back
