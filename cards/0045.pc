@@ -1,0 +1,10 @@
+{
+	"number": 45,
+	"name": "Happy Accident",
+	"type": "friendship",
+	"text": "Name piece of media/art/... referenced by MLP. Next player names another one and so on. First one who is unable to do so or names something that was already used, takes two shots.",
+	"quote": "That whole jealousy thing was just a happy accident.",
+	"name-fs": 84,
+	"text-fs": 44,
+	"quote-fs": 28
+}

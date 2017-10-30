@@ -1,0 +1,10 @@
+{
+	"number": 43,
+	"name": "Hug",
+	"type": "friendship",
+	"text": "Everybody, join in to the group hug or take two shots.",
+	"quote": "The spark ignited inside me, when I realized that you all...are my friends!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

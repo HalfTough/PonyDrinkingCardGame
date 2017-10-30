@@ -1,0 +1,10 @@
+{
+	"number": 44,
+	"name": "Birthday party",
+	"type": "friendship",
+	"text": "Find out who is closest to their birthday. Everybody else take a toast for that person.",
+	"quote": "Miss Matilda, happy birthday to you in one hundred and thirty two days!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

@@ -1,0 +1,10 @@
+{
+	"number": 42,
+	"name": "Really Bald Donkey",
+	"type": "friendship",
+	"text": "Player with shortest hair drinks.",
+	"quote": "Does anypony has a toupee? This donkey is really, really, bald!",
+	"name-fs": 80,
+	"text-fs": 50,
+	"quote-fs": 28
+}

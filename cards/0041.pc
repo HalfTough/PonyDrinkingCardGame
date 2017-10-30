@@ -1,0 +1,10 @@
+{
+	"number": 41,
+	"name": "Hoof wrestle",
+	"type": "friendship",
+	"text": "Have arm wrestling tournament. Winner drinks nothing. Rest of the players drinks depending how far they got.",
+	"quote": "I challenge you to a hoof wrestle. Winner gets the ticket.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
