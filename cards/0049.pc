@@ -1,0 +1,10 @@
+{
+	"number": 49,
+	"name": "Dragonshy",
+	"type": "friendship",
+	"text": "Bet from 1 to 6 shots, so players don't know who bets how much. Reveal your numbers at the same time. Whoever bets the most wins. Everyone else drinks what they bet. Only one person can win. Resolve draws with another bet that adds to your pile. If more than one person reaches 15 shots, there's no winner.",
+	"quote": "Are you sure you want Fluttershy to come along? I mean, that pony is afraid of her own shadow.",
+	"name-fs": 84,
+	"text-fs": 36,
+	"quote-fs": 28
+}

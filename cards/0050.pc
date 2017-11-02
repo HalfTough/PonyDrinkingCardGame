@@ -1,0 +1,10 @@
+{
+	"number": 50,
+	"name": "Best friends until the end of time",
+	"type": "friendship",
+	"text": "Recite line of any song from the show. Next player recites next line and so on. First one to screw up takes three shots. If you manage to go through whole song, no one has to drink.",
+	"quote": "They're gonna bond, share laughs and if I know them, they're gonna sing a song.",
+	"name-fs": 46,
+	"text-fs": 44,
+	"quote-fs": 28
+}

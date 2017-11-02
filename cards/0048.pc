@@ -1,0 +1,10 @@
+{
+	"number": 48,
+	"name": "I'm a year older than you",
+	"type": "friendship",
+	"text": "Oldest player takes a shot",
+	"quote": "Don't worry your pretty little head about mean old Gilda. Your auntie Pinkie Pie has gotten all tooken care of!",
+	"name-fs": 60,
+	"text-fs": 50,
+	"quote-fs": 28
+}

@@ -1,0 +1,10 @@
+{
+	"number": 47,
+	"name": "Best Aunt Ever",
+	"type": "friendship",
+	"text": "Don't drink for two rounds. Instead write every shot down and drink it all once effect of this card ends.",
+	"quote": "Bust? Pffsh... Would the best aunt ever be too busy to spend time with this adorable little one?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
