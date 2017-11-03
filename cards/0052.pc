@@ -1,0 +1,10 @@
+{
+	"number": 52,
+	"name": "By the Book",
+	"type": "magic",
+	"text": "When someone ignores rules of the game, play this card and make them pay (4 shots).",
+	"quote": "We have to do it. It says so in the book.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

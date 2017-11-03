@@ -1,0 +1,10 @@
+{
+	"number": 55,
+	"name": "Magic Potion",
+	"type": "magic",
+	"text": "Cancel any card.",
+	"quote": "I finally untangled that mess of a spell and got everypony home. It was really powerful stuff.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

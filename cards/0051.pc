@@ -1,0 +1,10 @@
+{
+	"number": 51,
+	"name": "Shield",
+	"type": "magic",
+	"text": "When someone tries to make you drink, use this card to make them drink same amount instead.",
+	"quote": "Shields!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
