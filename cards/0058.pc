@@ -1,0 +1,10 @@
+{
+	"number": 58,
+	"name": "Tardy",
+	"type": "magic",
+	"text": "Cancel card you drawn. Effect of next card you draw will be doubled.",
+	"quote": "I'm supposted to send Princess Celestia a letter every week telling her a lesson I've learned about friendship!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

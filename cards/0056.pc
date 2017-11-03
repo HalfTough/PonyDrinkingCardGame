@@ -1,0 +1,10 @@
+{
+	"number": 56,
+	"name": "Gemfinding Spell",
+	"type": "magic",
+	"text": "Search for any card from the deck, shuffle the deck and put card you picked on the top of it.",
+	"quote": "Oh, aha! Did you found some? Yes, Spike! Right there!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

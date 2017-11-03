@@ -1,0 +1,10 @@
+{
+	"number": 60,
+	"name": "Rainboom",
+	"type": "magic",
+	"text": "Everyone takes one shot.",
+	"quote": "I'd take cover if I were you.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

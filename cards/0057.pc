@@ -1,0 +1,10 @@
+{
+	"number": 57,
+	"name": "Teleportation",
+	"type": "magic",
+	"text": "Change location of one card.",
+	"quote": "– You made Twilight's Friendship Map disappear!\n– Ahem. Teleport.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
