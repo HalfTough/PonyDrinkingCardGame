@@ -1,0 +1,10 @@
+{
+	"number": 63,
+	"name": "Seeds of Truth",
+	"type": "magic",
+	"text": "Pick a player who must show his Magic Cards to everyone. He cannot hide them later. This doesn't effect any new cards he might get in the future.",
+	"quote": "Yesterday I told Mrs. Cake that I ate two corn cakes but I really ate three! Okay, six! I ate six corn cakes! Make it stop! Oh, make it stop!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

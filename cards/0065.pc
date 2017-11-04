@@ -1,0 +1,10 @@
+{
+	"number": 65,
+	"name": "First Rule",
+	"type": "action",
+	"text": "You can't use your hands for two rounds. Drink every time you do.",
+	"quote": "You see, this is the first rule of our game: No flying and no magic.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

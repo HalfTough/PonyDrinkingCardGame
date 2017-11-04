@@ -1,0 +1,10 @@
+{
+	"number": 61,
+	"name": "Time Travel",
+	"type": "magic",
+	"text": "Play this card after someone have started their turn and drawn a card. Game continues as if it was your turn now. Drawn card applies to you.",
+	"quote": "How there can be two 'me's? It's not scientifically possible. You are not scientiffically possible!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

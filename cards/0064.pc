@@ -1,0 +1,10 @@
+{
+	"number": 64,
+	"name": "Twilarina",
+	"type": "magic",
+	"text": "Flip a coin. If heads cancel all your shots this turn. If tails add two more.",
+	"quote": "But I'm here if you ever need to talk... or listen to music. Heh... comforting, right?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

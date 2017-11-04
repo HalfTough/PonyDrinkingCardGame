@@ -1,0 +1,10 @@
+{
+	"number": 62,
+	"name": "Meadowbrook's Mask",
+	"type": "magic",
+	"text": "Steal Magic Card from another player.",
+	"quote": "This is how Meadowbrook got the honey from the flash bees.",
+	"name-fs": 80,
+	"text-fs": 50,
+	"quote-fs": 28
+}
