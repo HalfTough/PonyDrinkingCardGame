@@ -1,0 +1,10 @@
+{
+	"number": 69,
+	"name": "Game of Shhh",
+	"type": "friendship",
+	"text": "First one to say something takes two shots. Game continues normally even if this card is still active.",
+	"quote": "Well, it's a game about who can be quiet the longest. Sound fun? I'm the world champ, you know. I bet you can't beat me!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

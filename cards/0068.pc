@@ -1,0 +1,10 @@
+{
+	"number": 68,
+	"name": "One bit!",
+	"type": "magic",
+	"text": "Cancel half of your shots. If you start with odd number, number of shots you end up with should be rounded up (e.g. drink 3 instead of 5). ",
+	"quote": "– Two bits!\n– One bit!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
