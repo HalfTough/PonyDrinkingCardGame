@@ -1,10 +1,8 @@
 #!/usr/bin/python
 
 import os
+import sys
 import json
-
-#TODO Pozbyc sie tego importu
-import inspect
 
 CARDSDIR = 'cards'
 
@@ -22,8 +20,12 @@ for file in files:
 	file = open(file, 'r')
 	try:
 		card = json.loads( file.read() )
-		os.system(IMAGEMAGICK % ( card['type'], card['number'], card['name-fs'], card['name'], card['text-fs'], card['text'], card['number'], card['quote-fs'], card['quote'], card['number']))
-		print('Card ' + ( '%04d' % card['number'] ) + ' done' )
+		command = IMAGEMAGICK % ( card['type'], card['number'],             card['name-fs'], card['name'], card['text-fs'], card['text'], card['number'],        card['quote-fs'], card['quote'], card['number'])
+		imgRet = os.system(command)
+		if(imgRet != 0):
+			sys.stderr.write("Running imagemagick resulted in error. Command used:\n" + command + "\n" )
+		else:
+			print('Card ' + ( '%04d' % card['number'] ) + ' done' )
 	except:
 		sys.stderr.write("Error reading " + file.name + "\n" )
 	finally:
