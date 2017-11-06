@@ -13,8 +13,17 @@ IMAGEMAGICK = 'convert templates/c-%s.png \
 	-page +720+1100 -size 100x60 -pointsize 44 caption:"%04d" \
 	-page +44+1068 -size 740x66 -font Z003-MediumItalic -pointsize %d caption:"%s" \
 	-layers flatten out/%04d.png'
+lang = ''
+if len(sys.argv) > 1:
+	if len(sys.argv) != 3:
+		sys.stderr.write('Incorrect number of arguments\n')
+		sys.exit(1)
+	if sys.argv[1] != '-l' and sys.argv[1] != '--language':
+		sys.stderr.write('Incorrect argument: '+sys.argv[1]+'\n')
+		sys.exit(1)
+	lang = sys.argv[2]
 
-files = [x for x in os.scandir(CARDSDIR) if x.is_file() and x.name.endswith('.pc')]
+files = [x for x in os.scandir(CARDSDIR+'/'+lang) if x.is_file() and x.name.endswith('.pc')]
 os.system('mkdir -p out')
 for file in files:
 	file = open(file, 'r')
