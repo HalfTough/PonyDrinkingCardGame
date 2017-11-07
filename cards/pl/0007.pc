@@ -1,0 +1,10 @@
+{
+	"number": 7,
+	"name": "Starlight Glimmer",
+	"type": "pony",
+	"text": "Wszyscy są równi, dlatego za każdym razem gdy ktoś musi pić, pozostali gracze piją tyle samo.\nTrwa do trzech rund.",
+	"quote": "Well, now you can spend the rest of your lives here with us! And we'll teach you just how much better life can be without your cutie marks!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 26
+}

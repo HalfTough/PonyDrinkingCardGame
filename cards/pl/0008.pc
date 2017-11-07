@@ -1,0 +1,10 @@
+{
+	"number": 8,
+	"name": "Applebloom",
+	"type": "pony",
+	"text": "Wylosuj gracza, który od teraz będzie twoją starszą siostrą. Zwracaj się do niej “starsza siostro” (niezależnie od płci gracza). W każdej turze możesz zmusić swoją siostrę do wypicia za ciebie jednego shota, o ile nie był on bezpośrednio twoją winą.",
+	"quote": "Sorry, Applejack, but I'm the big sister now!",
+	"name-fs": 84,
+	"text-fs": 38,
+	"quote-fs": 28
+}

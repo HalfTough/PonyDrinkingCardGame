@@ -1,0 +1,10 @@
+{
+	"number": 10,
+	"name": "Scootaloo",
+	"type": "pony",
+	"text": "Gracze muszą zwracać się do ciebie “Scootaloo”.",
+	"quote": "Oh wait, now I know how to call a chicken! Scootaloo! Scoot-Scootaloo!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

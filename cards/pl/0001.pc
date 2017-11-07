@@ -1,0 +1,10 @@
+{
+	"number": 1,
+	"name": "Twilight Sparkle",
+	"type": "pony",
+	"text": "Za każdym razem gdy ktoś powie coś niezgodnego z faktami, możesz poprawić tę osobę i jednocześnie zmusić ją do picia. Zasze gdy ty powiesz coś błędnego i ktoś to zauważy – pijesz.",
+	"quote": "You know why? Because I’m right. I’ll check on the preparations as fast as I can, then get to the library to find some proof of Nightmare Moon’s return.",
+	"name-fs": 84,
+	"text-fs": 43,
+	"quote-fs": 24
+}

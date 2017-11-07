@@ -1,0 +1,10 @@
+{
+	"number": 9,
+	"name": "Sweetie Belle",
+	"type": "pony",
+	"text": "Zastąp swój trunek czymś bezalkoholowym.",
+	"quote": "I didn't know you could burn juice.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

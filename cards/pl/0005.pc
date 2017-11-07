@@ -1,0 +1,10 @@
+{
+	"number": 5,
+	"name": "Pinkie Pie",
+	"type": "pony",
+	"text": "Zastąp swój trunek czymś słodszym, albo dolej do niego czegoś słodkiego.",
+	"quote": "Hi, I’m Pinkie Pie, and I threw this party just for you!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

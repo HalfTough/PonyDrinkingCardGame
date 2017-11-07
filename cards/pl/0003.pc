@@ -1,0 +1,10 @@
+{
+	"number": 3,
+	"name": "Rainbow Dash",
+	"type": "pony",
+	"text": "Pomóż przyjaciołom w tarapatach. Za każdym razem gdy ktoś musi pić, weź na siebie połowę tego brzemienia. Jeśli shoty nie są podzielne przez 2, zaokrąglij swoją część w dół. Efekt trwa do trzech rund.",
+	"quote": "Rainbow Dash, who could not abandon her friends for her own heart’s desire, represents the spirit of...Loyalty!",
+	"name-fs": 84,
+	"text-fs": 43,
+	"quote-fs": 28
+}
