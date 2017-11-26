@@ -7,7 +7,4 @@ If you want to play it, wait untill it's done. I'll post ready to print version.
 
 ##TODOS
 
-* Making bancha new cards
-* Making graphics for the back
-* Add stuff to instructions
 * Engrish, motherfucker, do you speak it?
