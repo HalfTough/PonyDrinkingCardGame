@@ -1,0 +1,10 @@
+{
+	"number": 65,
+	"name": "First Rule",
+	"type": "action",
+	"text": "Nie wolno ci używać rąk przez dwie rundy. Wypij za każdym razem gdy złamiesz tę zasadę.",
+	"quote": "You see, this is the first rule of our game: No flying and no magic.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

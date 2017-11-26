@@ -1,0 +1,10 @@
+{
+	"number": 11,
+	"name": "Spike",
+	"type": "pony",
+	"text": "Za każdym razem gdy ktoś przerwie ci zdanie, wypij. Nie musisz pić jeśli pozwolisz sobie przerwać.",
+	"quote": "Sweet! What are you having him do? Wash your laundry? Clean your room? Help you with your unfinished novel?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

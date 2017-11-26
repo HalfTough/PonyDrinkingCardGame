@@ -1,0 +1,10 @@
+{
+	"number": 54,
+	"name": "Persuadere",
+	"type": "magic",
+	"text": "Możesz zmienić jedną decyzję innego gracza. O ile jest związana z grą.",
+	"quote": "I see. Yes, of course, Starlight Glimmer.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

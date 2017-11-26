@@ -1,0 +1,10 @@
+{
+	"number": 31,
+	"name": "Staff of Sameness",
+	"type": "action",
+	"text": "Jeśli masz Aktywną Kartę Kucyka, odrzuć ją.",
+	"quote": "It was one of the great mage Meadowbrook's nine enchanted items.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

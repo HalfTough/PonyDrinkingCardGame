@@ -1,0 +1,10 @@
+{
+	"number": 29,
+	"name": "Cockatrice",
+	"type": "action",
+	"text": "Zostajesz zamieniony w kamień. Przez całą rundę musisz pozostać w bezruchu. Omijają cię wszystkie akcje w grze. Wypij za każdym razem gdy się poruszysz.",
+	"quote": "Don't move. I'll be back for you.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

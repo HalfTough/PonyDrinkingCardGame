@@ -1,0 +1,10 @@
+{
+	"number": 13,
+	"name": "Big Mac",
+	"type": "pony",
+	"text": "Za każdym razem, gdy powiesz coś innego niż “eeyup” lub “nope”, wypij shota.",
+	"quote": "Eeyup.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

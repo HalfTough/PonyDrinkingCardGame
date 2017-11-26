@@ -1,0 +1,10 @@
+{
+	"number": 63,
+	"name": "Seeds of Truth",
+	"type": "magic",
+	"text": "Wybierz gracza który musi pokazać wszystkim swoje Magiczne Karty. Nie może ich później schować. Nie tyczy się to nowych kart które dostanie później.",
+	"quote": "Yesterday I told Mrs. Cake that I ate two corn cakes but I really ate three! Okay, six! I ate six corn cakes! Make it stop! Oh, make it stop!",
+	"name-fs": 84,
+	"text-fs": 47,
+	"quote-fs": 28
+}

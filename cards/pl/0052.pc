@@ -1,0 +1,10 @@
+{
+	"number": 52,
+	"name": "By the Book",
+	"type": "magic",
+	"text": "Gdy ktoś ignoruje zasady gry, użyj tej karty żeby tego pożałował (4 shoty).",
+	"quote": "We have to do it. It says so in the book.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

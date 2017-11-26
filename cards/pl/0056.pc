@@ -1,0 +1,10 @@
+{
+	"number": 56,
+	"name": "Gemfinding Spell",
+	"type": "magic",
+	"text": "Wybierz dowolną kartę z talii, przetasuj talię, a następnie połóż wybraną kartę na jej szczycie.",
+	"quote": "Oh, aha! Did you found some? Yes, Spike! Right there!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

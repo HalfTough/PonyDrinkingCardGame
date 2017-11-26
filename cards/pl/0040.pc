@@ -1,0 +1,10 @@
+{
+	"number": 40,
+	"name": "Running of the Leaves",
+	"type": "friendship",
+	"text": "Przygotujcie każdemu drink. Kto wypije swój jako ostatni, pije jeszcze raz.",
+	"quote": "You're not an athlete, you're a... well... you're an egghead.",
+	"name-fs": 70,
+	"text-fs": 50,
+	"quote-fs": 28
+}

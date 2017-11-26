@@ -1,0 +1,10 @@
+{
+	"number": 18,
+	"name": "Stare Master",
+	"type": "action",
+	"text": "Wybierz swojego przeciwnika. Kto z was pierwszy mrugnie, przegrywa i pije dwa shoty.",
+	"quote": "The Stare? Oh no, please, not that!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

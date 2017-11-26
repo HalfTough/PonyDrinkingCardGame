@@ -1,0 +1,10 @@
+{
+	"number": 41,
+	"name": "Hoof wrestle",
+	"type": "friendship",
+	"text": "Przeprowadźcie turniej w siłowaniu się na rękę. Zwycięzca nic nie pije. Reszta graczy pije w zależności od tego które zajęli miejsce.",
+	"quote": "I challenge you to a hoof wrestle. Winner gets the ticket.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

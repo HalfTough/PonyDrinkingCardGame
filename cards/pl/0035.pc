@@ -1,0 +1,10 @@
+{
+	"number": 35,
+	"name": "Ponhenge",
+	"type": "action",
+	"text": "Wybierz 3 karty ze stosu odrzuconych i wtasuj je w talię.",
+	"quote": "The thing is... I think I can get them out.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

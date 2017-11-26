@@ -1,0 +1,10 @@
+{
+	"number": 17,
+	"name": "Pharynx",
+	"type": "pony",
+	"text": "Wybierz jedną z Aktywnych Kart Kucyków. Ta karta naśladuje jej efekt. Jeśli w grze nie ma żadnej Aktywnej Karty Kucyka, poczekaj aż jakaś się pojawi.",
+	"quote": "Hihihihi, hihi. Do me! Do me!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

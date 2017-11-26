@@ -1,0 +1,10 @@
+{
+	"number": 45,
+	"name": "Happy Accident",
+	"type": "friendship",
+	"text": "Wymień film/media/sztukę/... parodiowaną przez MLP. Następny gracz wymienia następny tytuł i tak dalej. Kto pierwszy nie będzie w stanie wymienić nic nowego, pije dwa shoty.",
+	"quote": "That whole jealousy thing was just a happy accident.",
+	"name-fs": 84,
+	"text-fs": 44,
+	"quote-fs": 28
+}

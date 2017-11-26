@@ -1,0 +1,10 @@
+{
+	"number": 64,
+	"name": "Twilarina",
+	"type": "magic",
+	"text": "Rzuć monetą. Jeśli wypadnie orzeł, unieważnij wszystkie swoje shoty w tej turze. Jeśli wypadnie reszka, dodaj dwa nowe.",
+	"quote": "But I'm here if you ever need to talk... or listen to music. Heh... comforting, right?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

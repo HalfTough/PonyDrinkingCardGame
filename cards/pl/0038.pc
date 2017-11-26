@@ -1,0 +1,10 @@
+{
+	"number": 38,
+	"name": "Somnambula's Blindfold",
+	"type": "action",
+	"text": "Na jedną rundę załóż opaskę na oczy. Nie wolno podglądać.",
+	"quote": "The Sphinx quickly agreed, asking only that Somnambula walk to the prince across a deep chasm, blindfolded!",
+	"name-fs": 70,
+	"text-fs": 50,
+	"quote-fs": 28
+}

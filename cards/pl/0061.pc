@@ -1,0 +1,10 @@
+{
+	"number": 61,
+	"name": "Time Travel",
+	"type": "magic",
+	"text": "Użyj tej karty po tym gdy inny gracz wyciągnął kartę po rozpoczęciu tury. Wyciągnięta karta działa teraz na ciebie. Gra kontynuuje jakby była twoja tura.",
+	"quote": "How there can be two 'me's? It's not scientifically possible. You are not scientiffically possible!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

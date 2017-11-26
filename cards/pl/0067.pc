@@ -1,0 +1,10 @@
+{
+	"number": 67,
+	"name": "Fancy Mathematics",
+	"type": "action",
+	"text": "Gracze mają 5 minut na przygotowanie dla ciebie zadania matematycznego (razem z prawidłową odpowiedzią). Następnie masz 8 minut na jego rozwiązanie. Wypij dwa shoty jesli ci się to nie uda. W przeciwnym wypadku, pozostali gracze piją po shocie.",
+	"quote": "The square root of five hundred and forty-six is twenty-three point three six six six four two eight nine one zero nine.",
+	"name-fs": 84,
+	"text-fs": 39,
+	"quote-fs": 28
+}

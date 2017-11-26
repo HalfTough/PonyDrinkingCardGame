@@ -1,0 +1,10 @@
+{
+	"number": 26,
+	"name": "Party animal",
+	"type": "action",
+	"text": "Wszystkie twoje shoty są podwojone. Trwa jedną rundę.",
+	"quote": "It's true! I do have problem!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

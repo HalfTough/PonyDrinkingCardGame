@@ -1,0 +1,10 @@
+{
+	"number": 66,
+	"name": "Madame Pinkie",
+	"type": "magic",
+	"text": "Podejrzyj sześć kart z góry talii.",
+	"quote": "Oh, my fortune telling has nothing to do with my Pinkie Sense, silly. It's only good for vague and immediate events.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

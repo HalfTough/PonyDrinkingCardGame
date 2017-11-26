@@ -1,0 +1,10 @@
+{
+	"number": 68,
+	"name": "One bit!",
+	"type": "magic",
+	"text": "Unieważnij połowę swoich shotów. Jeśli liczba shotów którą masz wypić jest nieparzysta, wynik zaokrąglij w górę (np. wypij 3 zamiast 5).",
+	"quote": "– Two bits!\n– One bit!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

@@ -1,0 +1,10 @@
+{
+	"number": 33,
+	"name": "Switch",
+	"type": "action",
+	"text": "Zamień miejscami dwie karty. O ile zamiana ma sens.",
+	"quote": "Good choice! Not that you had one.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

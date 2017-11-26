@@ -1,0 +1,10 @@
+{
+	"number": 14,
+	"name": "Discord ",
+	"type": "pony",
+	"text": "Zamieńcie się imionami. Każdy przejmuje imię/pseudonim gracza po swojej prawej. Każdy, kto zwróci się do kogoś używając złego imienia, pije.",
+	"quote": "Chaos is a wonderful, wonderful thing!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

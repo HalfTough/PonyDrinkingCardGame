@@ -1,0 +1,10 @@
+{
+	"number": 59,
+	"name": "Crystal Heart",
+	"type": "magic",
+	"text": "Przez dwie rundy zyskujesz odporność na działanie Magicznych Kart.",
+	"quote": "Princess Cadance needs our help, her magic will not last forever. I think we can do it, but we need to work together.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

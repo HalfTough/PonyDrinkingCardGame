@@ -1,0 +1,10 @@
+{
+	"number": 44,
+	"name": "Birthday party",
+	"type": "friendship",
+	"text": "Sprawdźcie czyje urodziny są najbliżej. Pozostali wznoszą toast za jubilata.",
+	"quote": "Miss Matilda, happy birthday to you in one hundred and thirty two days!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

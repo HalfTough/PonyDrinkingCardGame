@@ -1,0 +1,10 @@
+{
+	"number": 53,
+	"name": "Thundershock",
+	"type": "magic",
+	"text": "Wybierz gracza, który musi wypić shot.",
+	"quote": "When Trixie is through, the only thing they'll call you is loser.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

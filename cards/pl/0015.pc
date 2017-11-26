@@ -1,0 +1,10 @@
+{
+	"number": 15,
+	"name": "Vinyl Scratch",
+	"type": "pony",
+	"text": "Wybierasz muzykę grającą w tle. Radio byłoby pójściem na łatwiznę – każdą piosenkę musisz wybrać ręcznie.",
+	"quote": "...",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

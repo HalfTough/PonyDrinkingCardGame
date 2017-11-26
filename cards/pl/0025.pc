@@ -1,0 +1,10 @@
+{
+	"number": 25,
+	"name": "Magic Duel",
+	"type": "action",
+	"text": "Wybierz dowolną dyscyplinę. Pozostali gracze wybierają między sobą twojego przeciwnika. Jeśli przegrasz, wypij dwa shoty. Jeśli wygrasz, pozostali gracze piją po jednym.",
+	"quote": "Who is so ignorant as to challenge the magical ability of the Great and Powerful Trixie?!",
+	"name-fs": 84,
+	"text-fs": 44,
+	"quote-fs": 28
+}

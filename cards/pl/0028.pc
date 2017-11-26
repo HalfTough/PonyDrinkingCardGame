@@ -1,0 +1,10 @@
+{
+	"number": 28,
+	"name": "Reshelving day",
+	"type": "action",
+	"text": "Weź 5 kart z góry tali. Ułóż je jak chcesz i połóż z powrotem na górę tali.",
+	"quote": "Understanding Medival Equestria goes in... Pony History.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

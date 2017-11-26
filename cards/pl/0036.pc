@@ -1,0 +1,10 @@
+{
+	"number": 36,
+	"name": "Potion Brewing",
+	"type": "action",
+	"text": "Zrób drink z produktów które jesteś w stanie znaleść. Wynik daj swojemu najlepszemu przyjacielowi do wypicia.",
+	"quote": "I bet you can mix up a brew to fix... anything.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

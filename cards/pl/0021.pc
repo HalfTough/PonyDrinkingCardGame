@@ -1,0 +1,10 @@
+{
+	"number": 21,
+	"name": "Fun has been dubled",
+	"type": "action",
+	"text": "Wyciągnij dwie karty.",
+	"quote": "Not enough fun for you? What say you to this?",
+	"name-fs": 80,
+	"text-fs": 50,
+	"quote-fs": 28
+}

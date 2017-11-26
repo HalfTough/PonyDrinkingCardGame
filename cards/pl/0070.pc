@@ -1,0 +1,10 @@
+{
+	"number": 70,
+	"name": "Reformation",
+	"type": "action",
+	"text": "Wybierz Magiczną Kartę ze stosu kart odrzuconych i dadaj ją do swoich kart w ręce.",
+	"quote": "Yes, Princess, I'm ready to use my magic for good instead of evil. Most of the time.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

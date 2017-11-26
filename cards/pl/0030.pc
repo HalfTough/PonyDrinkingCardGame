@@ -1,0 +1,10 @@
+{
+	"number": 30,
+	"name": "Little too much flexiblility",
+	"type": "action",
+	"text": "Załóż swoją nogę za głowę albo wypij shota.",
+	"quote": "Somepony give Blossomforth a hoof.",
+	"name-fs": 56,
+	"text-fs": 50,
+	"quote-fs": 28
+}

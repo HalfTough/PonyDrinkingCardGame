@@ -1,0 +1,10 @@
+{
+	"number": 51,
+	"name": "Shield",
+	"type": "magic",
+	"text": "Gdy ktoś próbuje zmusić cię do picia, użyj tej karty, a ta osoba będzie musiała pić zamiast ciebie.",
+	"quote": "Shields!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

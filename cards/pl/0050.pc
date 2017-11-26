@@ -1,0 +1,10 @@
+{
+	"number": 50,
+	"name": "Best friends until the end of time",
+	"type": "friendship",
+	"text": "Zarecytuj wiersz dowolnej piosenki z serialu. Kolejny z graczy recytuje następny wiersz i tak dalej. Ten kto pomyli się jako pierwszy, pije trzy shoty. Jeśli uda wam się przebrnąć przez całą piosenkę, nikt nie musi pić.",
+	"quote": "They're gonna bond, share laughs and if I know them, they're gonna sing a song.",
+	"name-fs": 46,
+	"text-fs": 44,
+	"quote-fs": 28
+}

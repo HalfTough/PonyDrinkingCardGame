@@ -1,0 +1,10 @@
+{
+	"number": 46,
+	"name": "Cider",
+	"type": "friendship",
+	"text": "Zróbcie sobie przerwę na szklankę cydru.",
+	"quote": "Attention, everypony! Cider season is now officially open!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

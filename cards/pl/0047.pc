@@ -1,0 +1,10 @@
+{
+	"number": 47,
+	"name": "Best Aunt Ever",
+	"type": "friendship",
+	"text": "Nie pij przez dwie rundy. Zamiast tego zapisz każdy shot i wypij wszystko naraz gdy efekt tej karty się skończy.",
+	"quote": "Bust? Pffsh... Would the best aunt ever be too busy to spend time with this adorable little one?",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

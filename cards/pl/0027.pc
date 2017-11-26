@@ -1,0 +1,10 @@
+{
+	"number": 27,
+	"name": "Nap",
+	"type": "action",
+	"text": "Zasługujesz na małą przerwę. Tym razem nie musisz pić.\nMam tylko nadzieję, że ta karta nie została wylosowana na początku gry.",
+	"quote": "I was busy! Napping.",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}

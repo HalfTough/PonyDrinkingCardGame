@@ -1,0 +1,10 @@
+{
+	"number": 49,
+	"name": "Dragonshy",
+	"type": "friendship",
+	"text": "Każdy stawia od jednego do sześciu szotów, tak aby gracze nie wiedzieli kto postawił ile. Jednocześnie pokażcie swoje numery. Ten kto postawił najwięcej, wygrywa. Pozostali piją tyle ile kto postawił. Tylko jedna osoba może wygrać. Remisy rozwiązujemy przez dogrywkę której wyniki dodaje się do puli graczy. Jeśli ktoś dojdzie do 15 shotów, nie ma zwycięzcy.",
+	"quote": "Are you sure you want Fluttershy to come along? I mean, that pony is afraid of her own shadow.",
+	"name-fs": 84,
+	"text-fs": 32,
+	"quote-fs": 28
+}

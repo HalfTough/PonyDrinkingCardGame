@@ -1,0 +1,10 @@
+{
+	"number": 19,
+	"name": "Winter wrap up",
+	"type": "action",
+	"text": "Gracze wybierają piosenkę z serialu. Zaśpiewaj ją albo wypij 5 shotów. W razie potrzeby, możesz sprawdzić słowa.",
+	"quote": "Winter wrap up! Winter wrap up! Let's finish our holiday cheer!",
+	"name-fs": 84,
+	"text-fs": 50,
+	"quote-fs": 28
+}
