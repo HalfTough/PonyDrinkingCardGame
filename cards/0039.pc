@@ -2,7 +2,7 @@
 	"number": 39,
 	"name": "Cutiepox",
 	"type": "action",
-	"text": "For one round every new Action Card effects not olny person who drew it, but you as well.",
+	"text": "For one round every new Action Card affects not only person who drew it, but you as well.",
 	"quote": "Sacrebleu! Plus de marque de cutie! Qu'est-ce que c'est?! Je parle français?!",
 	"name-fs": 84,
 	"text-fs": 50,
