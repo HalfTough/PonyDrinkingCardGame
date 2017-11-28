@@ -2,7 +2,7 @@
 	"number": 70,
 	"name": "Reformation",
 	"type": "action",
-	"text": "Pick Magic Card form discard pile and put it in your hand.",
+	"text": "Pick a Magic Card from the discard pile and put it in your hand.",
 	"quote": "Yes, Princess, I'm ready to use my magic for good instead of evil. Most of the time.",
 	"name-fs": 84,
 	"text-fs": 50,

@@ -2,7 +2,7 @@
 	"number": 67,
 	"name": "Fancy Mathematics",
 	"type": "action",
-	"text": "Players have five minutes to prepare math question for you (they must know the answer). Then, you have 8 minutes to solve it. Take two shots if you won't. Everyone else takes one if you do.",
+	"text": "The remaining players have five minutes to prepare math question. Then, you have eight minutes to solve it. Take two shots if you can't. Everyone else takes one if you do.",
 	"quote": "The square root of five hundred and forty-six is twenty-three point three six six six four two eight nine one zero nine.",
 	"name-fs": 84,
 	"text-fs": 43,

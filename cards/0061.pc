@@ -2,7 +2,7 @@
 	"number": 61,
 	"name": "Time Travel",
 	"type": "magic",
-	"text": "Play this card after someone have started their turn and drawn a card. Game continues as if it was your turn now. Drawn card applies to you.",
+	"text": "Play this card after someone has drawn a card on their turn. The drawn card now applies to you, and the game continues as if it was now your turn.",
 	"quote": "How there can be two 'me's? It's not scientifically possible. You are not scientiffically possible!",
 	"name-fs": 84,
 	"text-fs": 50,
