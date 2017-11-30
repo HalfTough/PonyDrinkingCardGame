@@ -27,6 +27,17 @@ To generate deck, simply run
 To generate cards using text from subdirectory (e.g. cards/pl) run  
 ```python generate.py --language {dir}```
 
+## How to play
+### Short version:  
+Draw a card:  
+Pony Card – stays with you. Gets replaced when you draw new Pony Card.  
+Magic Card – put it in your hand, without showing it to other players. Use later.  
+Action Card – do what it says.  
+Friendship Card – Same as Action Card but applies to all players.  
+After your turn is over, next player draws a card and so on...
+### Long version:
+https://mega.nz/#!JWYWWBjZ!ak_VBBpCFguPZarbPuLVZc7TkQfPv_SpComUPWM5fp8
+
 ## TODOS
 * Windows
 * Engrish, motherfucker, do you speak it?
