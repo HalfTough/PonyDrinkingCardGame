@@ -35,6 +35,8 @@ Magic Card – put it in your hand, without showing it to other players. Use lat
 Action Card – do what it says.  
 Friendship Card – Same as Action Card but applies to all players.  
 After your turn is over, next player draws a card and so on...
+
+Before the game starts, you should decide how you define *a shot* and *a drink*.
 ### Long version:
 https://mega.nz/#!JWYWWBjZ!ak_VBBpCFguPZarbPuLVZc7TkQfPv_SpComUPWM5fp8
 
