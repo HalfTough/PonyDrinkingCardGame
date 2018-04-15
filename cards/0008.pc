@@ -2,9 +2,9 @@
 	"number": 8,
 	"name": "Applebloom",
 	"type": "pony",
-	"text": "Randomly pick a player who is now your big sister. Call her “big sister” (even if it's a guy). Each turn you can make her drink one shot in your place, as long that shot wasn't your direct fault.",
+	"text": "Randomly pick a player who is now your big sister. Call her “big sister”. Each turn you can make her drink one shot in your place. If there's a player with Applejack card active, when you drew this card, that person automaticaly becomes your big sis.",
 	"quote": "Sorry, Applejack, but I'm the big sister now!",
 	"name-fs": 84,
-	"text-fs": 44,
+	"text-fs": 39,
 	"quote-fs": 28
 }

@@ -2,7 +2,7 @@
 	"number": 14,
 	"name": "Discord ",
 	"type": "pony",
-	"text": "Switch your names. Everyone must be called by the name of the person to their right. Everyone who calls someone by wrong name, must take a shot.",
+	"text": "Switch your names. Everyone must be called by the name of the person to their right. Everyone who calls someone by wrong name, takes a shot.",
 	"quote": "Chaos is a wonderful, wonderful thing!",
 	"name-fs": 84,
 	"text-fs": 50,

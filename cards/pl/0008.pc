@@ -2,9 +2,9 @@
 	"number": 8,
 	"name": "Applebloom",
 	"type": "pony",
-	"text": "Wylosuj gracza, który od teraz będzie twoją starszą siostrą. Zwracaj się do niej “starsza siostro” (niezależnie od płci gracza). W każdej turze możesz zmusić swoją siostrę do wypicia za ciebie jednego shota, o ile nie był on bezpośrednio twoją winą.",
+	"text": "Wylosuj gracza, który od teraz będzie twoją starszą siostrą. Zwracaj się do niej “starsza siostro”. W każdej turze możesz zmusić swoją siostrę do wypicia za ciebie jednego shota. Jeśli podczas wyciągnięcia tej karty któryś z graczy ma aktywną kartę Applejack, ta osoba automatycznie staje się twoją starszą siostrą.",
 	"quote": "Sorry, Applejack, but I'm the big sister now!",
 	"name-fs": 84,
-	"text-fs": 38,
+	"text-fs": 36,
 	"quote-fs": 28
 }
